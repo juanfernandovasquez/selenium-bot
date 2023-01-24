@@ -1,0 +1,27 @@
+[
+  {
+    "correo": "ejemplo1@gmail.com",
+    "password": "ejemplo1"
+  },
+  {
+    "correo": "ejemplo2@gmail.com",
+    "password": "ejemplo2"
+  },
+  {
+    "correo": "",
+    "password": ""
+  },
+  {
+    "correo": "",
+    "password": ""
+  },
+  {
+    "correo": "",
+    "password": ""
+  },
+  {
+    "correo": "",
+    "password": ""
+  }
+]
+

@@ -1,0 +1,27 @@
+Pasos a seguir:
+
+1. Instalar python mayor a 3.5
+2. Verificar que las versiones de los navegadores sean las correctas
+3. Ejecutar el archivo instalaciones.bat 
+4. Ejecutar el archivo bot.bat
+
+Los pasos 1,2 y 3 se hacen solo una vez. 
+Luego, cada vez que se quiera encender los bots se corre solo
+el archivo bot.bat.
+
+
+Versiones de los navegadores:
+Edge: 109.0.1518.55
+Chrome versión: 109.0.5414.75
+Firefox : solo tenerlo descargado
+
+
+Archivos a editar:
+Live.json
+temas.json
+cuentas.json
+
+
+Recomendaciones:
+No hacer imprimir más de dos veces a los bots los mismos comentarios ya que pueden caer como spam. 
+Editar constantemente el json de comentarios. 
